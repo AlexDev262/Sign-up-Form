@@ -167,6 +167,11 @@ button {
 
 }
 
+button:hover{
+    cursor: pointer;
+    background-color: rgb(229, 149, 0);
+}
+
 .log-in {
     color: orange;
     text-decoration: none;
@@ -184,3 +189,4 @@ h2 {
     font-size: 1.3rem;
     margin-bottom: 45px
 }
+
