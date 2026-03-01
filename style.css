@@ -169,10 +169,14 @@ button {
 
 .log-in {
     color: orange;
+    text-decoration: none;
 }
 
+
+
 .log-in:hover {
-    cursor: pointer;
+    text-decoration: underline;
+    
 }
 
 h2 {
